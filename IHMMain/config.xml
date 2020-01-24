@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Module>Produit</Module>
+    <Module>Client</Module>
+    <Module>Vente</Module>
+<!--    <Module>Categorie</Module>-->
+<!--    <Module>Login</Module>-->
+</Modules>
